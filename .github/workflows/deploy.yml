@@ -35,7 +35,7 @@ jobs:
         run: npm run build
         env:
           GITHUB_PAGES: 'true'
-          VITE_BASE_PATH: '/abhishek-portfolio/'
+          VITE_BASE_PATH: '/abhishek-bhol-portfolio/'
 
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5

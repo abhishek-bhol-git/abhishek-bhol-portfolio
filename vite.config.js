@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
-const defaultGitHubPagesBase = '/abhishek-portfolio/';
+const defaultGitHubPagesBase = '/abhishek-bhol-portfolio/';
 
 export default defineConfig({
   plugins: [react()],
